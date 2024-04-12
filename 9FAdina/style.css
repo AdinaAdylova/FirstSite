@@ -1,0 +1,38 @@
+body{
+    background-color:#dceb9f;
+}
+.main{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+h1{
+    font-size: 90px;
+}
+p{
+    font-size: 30px;
+}
+.stars⭐{
+    text-align: center;
+}
+a{
+    padding: 10px 25px;
+    border-radius: 30px;
+    background-color: white;
+    color: black;
+}
+.dflex{
+    font-size: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    }
+.text{
+    text-align: center;
+}
+img{
+  
+    width: 800px;
+    height: 500px;
+    border-radius: 10%;
+}
